@@ -253,4 +253,8 @@ input[type=submit] {
 @media (min-width: 981px)
 {}
 
+
+PSEUDOCODE: Saw variety of tutorials on media queries and believe I am using correct syntax, but am unsure as to how to implement these using three different sizes for each html page if that makes sense. Noticed though however, when adjusting the screen size on the web the site adjusted everything accordingly making me believe the media tags worked. 
+Struggled a bit with trying to figure out how to get these media tags to work for 3 different html pages separately with 3 different widths and sizes, but am turning in what I have so far! Wanted to try learning these myself first before resorting to help!
+
 </style>
